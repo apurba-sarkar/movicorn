@@ -1,4 +1,4 @@
-# Title: MovieCorn: Your Ultimate Movie Destination (App name: Admin Dashboard)
+# Title: Your Ultimate Movie Destination (App name: MovieCorn)
 
 Introduction:
 Our project offers a dynamic movie website experience, integrating cutting-edge technologies. With an intuitive interface and seamless navigation, MovieCorn revolutionizes the way you discover, explore, and rate movies in your personal watchlist.
