@@ -17,3 +17,7 @@ developer by  $${\color{blue}Apurba Sarkar}$$
 
 
 ## Screenshots: 
+![Screenshot 2024-02-27 234339](https://github.com/apurba-sarkar/movicorn/assets/127435292/39c83fe7-4edb-4c73-88f8-389f4a554288)
+![Screenshot 2024-02-27 234231](https://github.com/apurba-sarkar/movicorn/assets/127435292/7e26fae4-d87f-486b-bb55-a27df24157cb)
+![Screenshot 2024-02-27 234133](https://github.com/apurba-sarkar/movicorn/assets/127435292/448f70cd-e8ea-42c0-8b1a-0e2915094fee)
+![Screenshot (40)](https://github.com/apurba-sarkar/movicorn/assets/127435292/50ea32a3-56b4-493b-a67c-c409f91d172c)
